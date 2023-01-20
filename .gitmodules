@@ -1,0 +1,3 @@
+[submodule "QualityQuizzes-Back-End"]
+	path = QualityQuizzes-Back-End
+	url = https://github.com/WilliamSpear1/QualityQuizzes-Back-End.git
