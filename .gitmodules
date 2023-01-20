@@ -1,3 +1,6 @@
 [submodule "QualityQuizzes-Back-End"]
 	path = QualityQuizzes-Back-End
 	url = https://github.com/WilliamSpear1/QualityQuizzes-Back-End.git
+[submodule "QualityQuizzes-Front-End"]
+	path = QualityQuizzes-Front-End
+	url = https://github.com/WilliamSpear1/QualityQuizzes-Front-End.git
